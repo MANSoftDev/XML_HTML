@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Config>
+	<Sections>
+		<Section>Technology</Section>
+		<Section>Business</Section>
+		<Section>Finance</Section>
+	</Sections>
+	<Regions>
+		<Region>Asia</Region>
+		<Region>Americas</Region>
+		<Region>Europe</Region>
+	</Regions>
+	<Keywords>
+		<Keyword>Money</Keyword>
+		<Keyword>Computers</Keyword>
+		<Keyword>Stocks</Keyword>
+		<Keyword>Resources</Keyword>
+	</Keywords>
+</Config>
